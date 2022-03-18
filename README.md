@@ -1,2 +1,2 @@
 # pete-automation
-Resume file - peteautomation.com
+Resume file - this repo is dedicated to my resume!
