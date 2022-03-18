@@ -1,0 +1,350 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>Resume - PeterAsonganyi</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Custom fonts for this template -->
+    <link href="https://fonts.googleapis.com/css?family=Saira+Extra+Condensed:100,200,300,400,500,600,700,800,900" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i,800,800i" rel="stylesheet">
+    <link href="vendor/font-awesome/css/font-awesome.min.css" rel="stylesheet">
+    <link href="vendor/devicons/css/devicons.min.css" rel="stylesheet">
+    <link href="vendor/simple-line-icons/css/simple-line-icons.css" rel="stylesheet">
+
+    <!-- Custom styles for this template -->
+    <link href="css/resume.min.css" rel="stylesheet">
+
+  </head>
+
+  <body id="page-top">
+
+    <nav class="navbar navbar-expand-lg navbar-dark bg-primary fixed-top" id="sideNav">
+      <a class="navbar-brand js-scroll-trigger" href="#page-top">
+        <span class="d-block d-lg-none">Pet's Automation</span>
+        <span class="d-none d-lg-block">
+          <img class="img-fluid img-profile rounded-circle mx-auto mb-2" src="img/img:profile.jpeg" alt="">
+        </span>
+      </a>
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarSupportedContent">
+        <ul class="navbar-nav">
+          <li class="nav-item">
+            <a class="nav-link js-scroll-trigger" href="#about">About</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link js-scroll-trigger" href="#experience">Experience</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link js-scroll-trigger" href="#education">Education</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link js-scroll-trigger" href="#skills">Skills</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link js-scroll-trigger" href="#interests">Interests</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link js-scroll-trigger" href="#awards">Awards</a>
+          </li>
+        </ul>
+      </div>
+    </nav>
+
+    <div class="container-fluid p-0">
+
+      <section class="resume-section p-3 p-lg-5 d-flex d-column" id="about">
+        <div class="my-auto">
+            <div class="subheading mb-3">Welcome! My name is...</div>
+          <h1 class="mb-0">Peter
+            <span class="text-primary">Asonganyi</span>
+          </h1>
+          <div class="subheading mb-5">1508 W Pratt Blvd· Chicago , IL 60626 · (773) 397-9730 ·
+            <a href="mailto:name@email.com">peter60626@yahoo.com</a>
+          </div>
+            <p class="mb-5">I am a good communicator and motivator, able to work as part of a team but also under my own initiative. I am a person who is self-motivated, energetic hardworking and reliable. My current work experience includes Cloud Native DevOps infrastructure migration. Monitoring, securing and taking part of the form in automating and supporting to ensure CI/CD in product development.</p>
+         <p class="mb-5"> With years of experienced in leveraging agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy fostering collaborative thinking to further the overall value proposition.</p>
+          <ul class="list-inline list-social-icons mb-0">
+            <li class="list-inline-item">
+              <a href="https://twitter.com/AsonganyiPeter">
+                <span class="fa-stack fa-lg">
+                  <i class="fa fa-circle fa-stack-2x"></i>
+                  <i class="fa fa-twitter fa-stack-1x fa-inverse"></i>
+                </span>
+              </a>
+            </li>
+            <li class="list-inline-item">
+              <a href="https://www.linkedin.com/in/peter-asonganyi-02637244/">
+                <span class="fa-stack fa-lg">
+                  <i class="fa fa-circle fa-stack-2x"></i>
+                  <i class="fa fa-linkedin fa-stack-1x fa-inverse"></i>
+                </span>
+              </a>
+            </li>
+            <li class="list-inline-item">
+              <a href="https://github.com/peter60626">
+                <span class="fa-stack fa-lg">
+                  <i class="fa fa-circle fa-stack-2x"></i>
+                  <i class="fa fa-github fa-stack-1x fa-inverse"></i>
+                </span>
+              </a>
+            </li>
+          </ul>
+        </div>
+      </section>
+
+      <section class="resume-section p-3 p-lg-5 d-flex flex-column" id="experience">
+        <div class="my-auto">
+          <h2 class="mb-5">Experience</h2>
+
+          <div class="resume-item d-flex flex-column flex-md-row mb-5">
+            <div class="resume-content mr-auto">
+              <h3 class="mb-0">Viewtech Consulting Inc</h3>
+                <div class="subheading mb-3">Cloud/DevOps Engineer, Analyst</div>
+              <p> Created infrastructure-using Terraform in AWS.
+                  • Written Ansible roles for application deployment
+                  • Atomicity of application deployment achieved using Ansible
+                  • Migration of Jenkins jobs to new Jenkins server
+                  • Implemented Jenkins slave for IOS and Android projects
+                  • Automated deployment of different applications like drop wizard, spring boot, NodeJS
+                  • Installation and management for Build Pipeline with Jenkins for Build and release
+                  • Created Jenkins Pipeline jobs for Build automation
+                  • Implemented SonarQube for report generation code quality and code coverage
+                  • Automated uploading of reports generated by SonarQube into S3, so developers can have access to reports.
+                  • Implemented S3 bucket policy and Encryption
+                  • Maintenance of current infrastructure.</p>
+            </div>
+            <div class="resume-date text-md-right">
+              <span class="text-primary">March 2020 - Present. Georgia</span>
+            </div>
+          </div>
+
+          <div class="resume-item d-flex flex-column flex-md-row mb-5">
+            <div class="resume-content mr-auto">
+              <h3 class="mb-0">Viewtech Consulting Inc</h3>
+              <div class="subheading mb-3">Cloud/DevOps Engineer, Associate</div>
+              <p> Involved in GIT administration and Enabling GIT Webhooks.
+                  • Involved in Branching, tagging of code delivery at required releases.
+                  • Recommendation of GIT/Build/Release Process.
+                  • Involved in Deployment of the application using Tomcat
+                  • Automated build process used for Web Based applications using several tools/Automation framework like Jenkins.
+                  • Gave insights in Build Automation of the project
+                  • Project involved the usage of maintaining a repository and version controlling.
+                  • Inputs to planning and estimation for configuration and release management activities.
+                  • Planned for release and configuration management
+                  • Co-work with the globally distributed Development team to fix the build related issues.</p>
+            </div>
+            <div class="resume-date text-md-right">
+              <span class="text-primary">September 2018 - June 2020. Georgia</span>
+            </div>
+          </div>
+
+          <div class="resume-item d-flex flex-column flex-md-row mb-5">
+            <div class="resume-content mr-auto">
+              <h3 class="mb-0">Viewtech Consulting Inc</h3>
+              <div class="subheading mb-3">Systems and Application Development/Project Management Intern</div>
+              <p> Created VPC for the multi-tier project.
+                  • We used Ansible playbooks to handle the automation of our web applications and Terraform as IaC.
+                  • Installation and management for Build Pipeline with Jenkins for Build and release (with pipeline as a code).
+                  • Autoscaling of EC2 instances. Managing security groups, Routing Policies and ELB's.
+                  • Evaluating performance of EC2 instances, their CPU, Memory usage, Network Usage and suggested appropriate instance type for the same.
+                  • Used Artifactory to deploy artifacts.</p>
+            </div>
+            <div class="resume-date text-md-right">
+              <span class="text-primary">March 2017 - August 2018. Georgia</span>
+            </div>
+          </div>
+
+          <div class="resume-item d-flex flex-column flex-md-row">
+            <div class="resume-content mr-auto">
+              <h3 class="mb-0">Support Space Inc</h3>
+              <div class="subheading mb-3">Product Support Specialist</div>
+              <p> Mastered software functionality to provide technical support for third party companies such as Geek Squad.
+                  • Troubleshooted and investigated software issues.
+                  • Compiled data to draft analytical reports.
+                  • Developed and recommended functional solutions.
+                  • Provide support for all types break/fix level.
+                  • Ensure everything from virus removal to system cleanup was possible.
+                  • work as a team to solve challenging hardware software app problems..</p>
+            </div>
+            <div class="resume-date text-md-right">
+              <span class="text-primary">May 2015 - faburary 2017. Chicago</span>
+            </div>
+          </div>
+
+        </div>
+
+      </section>
+
+      <section class="resume-section p-3 p-lg-5 d-flex flex-column" id="education">
+        <div class="my-auto">
+          <h2 class="mb-5">Education</h2>
+
+          <div class="resume-item d-flex flex-column flex-md-row mb-5">
+            <div class="resume-content mr-auto">
+              <h3 class="mb-0">Davenport University</h3>
+              <div class="subheading mb-3">Master of business</div>
+              <div>Business Administration</div>
+              <p>GPA: 3.23</p>
+            </div>
+            <div class="resume-date text-md-right">
+              <span class="text-primary">May 2015</span>
+            </div>
+          </div>
+
+          <div class="resume-item d-flex flex-column flex-md-row">
+            <div class="resume-content mr-auto">
+              <h3 class="mb-0">Arizona State University</h3>
+              <div class="subheading mb-3">Bachelor of Science</div>
+                <div>Engineering Management</div>
+              <p>GPA: 3.56</p>
+            </div>
+            <div class="resume-date text-md-right">
+              <span class="text-primary">June 2013</span>
+            </div>
+          </div>
+        
+          <div class="resume-item d-flex flex-column flex-md-row">
+            <div class="resume-content mr-auto">
+              <h3 class="mb-0">Truman College Chicago</h3>
+              <div class="subheading mb-3">Associate of Science</div>
+                <div>Architecture Engineer</div>
+              <p>GPA: 3.56</p>
+            </div>
+            <div class="resume-date text-md-right">
+              <span class="text-primary">June 2010</span>
+            </div>
+          </div>
+            
+          </div>
+      </section>
+
+      <section class="resume-section p-3 p-lg-5 d-flex flex-column" id="skills">
+        <div class="my-auto">
+          <h2 class="mb-5">Skills</h2>
+
+          <div class="subheading mb-3">Programming Languages &amp; Tools</div>
+          <ul class="list-inline list-icons">
+            <li class="list-inline-item">
+              <i class="devicons devicons-html5"></i>
+            </li>
+            <li class="list-inline-item">
+              <i class="devicons devicons-gitlab"></i>
+            </li>
+            <li class="list-inline-item">
+              <i class="devicons devicons-javascript"></i>
+            </li>
+            <li class="list-inline-item">
+              <i class="devicons devicons-python"></i>
+            </li>
+            <li class="list-inline-item">
+              <i class="devicons devicons-aws"></i>
+            </li>
+            <li class="list-inline-item">
+              <i class="devicons devicons-ubuntu"></i>
+            </li>
+            <li class="list-inline-item">
+              <i class="devicons devicons-linux"></i>
+            </li>
+            <li class="list-inline-item">
+              <i class="devicons devicons-docker"></i>
+            </li>
+            <li class="list-inline-item">
+              <i class="devicons devicons-redhat"></i>
+            </li>
+            <li class="list-inline-item">
+              <i class="devicons devicons-mongodb"></i>
+            </li>
+            <li class="list-inline-item">
+              <i class="devicons devicons-jenkins"></i>
+            </li>
+              <li class="list-inline-item">
+              <i class="devicons devicons-puppet"></i>
+            </li>
+            </ul>
+            
+            <h3 class="mb-0">Workflow</h3>
+            <div class="subheading mb-3">Using the following to automate task such as: Software and Programming tools,  Version Controls tools,  Configuration Managements tools,  Containerization tools and Automation Servers.</div>
+            <ul class="fa-ul mb-0">
+            <li>
+            <i class="fa-li fa fa-check"></i>
+              Continuous Testing</li>
+            <li> 
+            <i class="fa-li fa fa-check"></i>
+              Continuous intergrating</li>
+            <li>
+                <i class="fa-li fa fa-check"></i>
+              Continuos operating</li>
+            <li> 
+              <i class="fa-li fa fa-check"></i>
+              Continuous deploying or Continuous Delievery</li>
+            <li>
+              <i class="fa-li fa fa-check"></i>
+              continuous Monitoring &amp; Debugging</li>
+            <li>
+              <i class="fa-li fa fa-check"></i>
+              Cross Functional Team communication</li>
+            <li>
+              <i class="fa-li fa fa-check"></i>
+                Agile Development &amp; jinkins</li>
+           </ul>
+          </div>
+        </section>
+              
+      <section class="resume-section p-3 p-lg-5 d-flex flex-column" id="interests">
+        <div class="my-auto">
+          <h2 class="mb-5">Interests</h2>
+          <p>Apart from being a Cloud/DevOps Engineer, I enjoy most of my time being outdoors. In the winter, I am an avid soccer player and novice runner. During the warmer months here in Chicago, I enjoy food and music festivals, playing soccer, and technology seminers.</p>
+          <p class="mb-0">When forced indoors, I follow a number of sci-fi and fantasy genre movies and television shows, I am an aspiring Bartender, and I spend a large amount of my free time exploring the latest technolgy advancements in the back and front-end Devops Engineering/Devopment world.</p>
+        </div>
+      </section>
+
+      <section class="resume-section p-3 p-lg-5 d-flex flex-column" id="awards">
+        <div class="my-auto">
+          <h2 class="mb-5">Awards &amp; Certifications</h2>
+          <ul class="fa-ul mb-0">
+            <li>
+              <i class="fa-li fa fa-trophy text-warning"></i>
+              AWS Certified Solution Architect</li>
+            <li>
+              <i class="fa-li fa fa-trophy text-warning"></i>
+              Associate AWS Certified DevOps Engineer</li>
+            <li>
+            <i class="fa-li fa fa-trophy text-warning"></i>
+             Professional AWS Certified Security - Speciality </li>
+            <li>
+              <i class="fa-li fa fa-trophy text-warning"></i>
+              University of Chicago - DevOps Engineer Certificate</li>
+          </ul>
+        </div>
+        </section>
+        
+      </div>
+
+    <!-- Bootstrap core JavaScript -->
+    <script src="vendor/jquery/jquery.min.js"></script>
+    <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+
+    <!-- Plugin JavaScript -->
+    <script src="vendor/jquery-easing/jquery.easing.min.js"></script>
+
+    <!-- Custom scripts for this template -->
+    <script src="js/resume.min.js"></script>
+      
+      
+
+  </body>
+
+</html>
+
+
