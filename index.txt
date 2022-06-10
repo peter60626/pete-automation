@@ -178,7 +178,7 @@
                   • work as a team to solve challenging hardware software app problems..</p>
             </div>
             <div class="resume-date text-md-right">
-              <span class="text-primary">May 2015 - faburary 2017. Chicago</span>
+              <span class="text-primary">May 2015 - faburary 2019. Chicago</span>
             </div>
           </div>
 
@@ -346,5 +346,4 @@
   </body>
 
 </html>
-
 
